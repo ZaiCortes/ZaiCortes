@@ -44,7 +44,7 @@
 
 ###
 
-<h6 align="left">Estoy comprometida con el desarrollo de soluciones tecnológicas que generen un impacto positivo.</h6>
+<h6 align="center">Estoy comprometida con el desarrollo de soluciones tecnológicas que generen un impacto positivo.</h6>
 
 ###
 
