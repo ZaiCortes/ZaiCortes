@@ -4,11 +4,7 @@
 
 <p align="center">Soy Ingeniera de Software con experiencia en desarrollo web y desarrollo de aplicaciones móviles. Poseo habilidades en programación full-stack, utilizando lenguajes como Java y Python. Además, tengo conocimientos en bases de datos, diseño de interfaces de usuario (UI/UX), y metodologías ágiles como Scrum.</p>
 
-###
 
-<img src="https://raw.githubusercontent.com/ZaiCortes/ZaiCortes/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h2 align="center">Tecnologías</h2>
 
